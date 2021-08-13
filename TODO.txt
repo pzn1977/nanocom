@@ -1,0 +1,9 @@
+2004-10-18
+
+ - add command line option to translate when user press <ENTER> to
+   send LF, CR+LF or CR
+
+ - change option "0" to bitrate, so it does not affect current parity
+   stopbits or databits
+
+ - add command line option to choose 8N1 8N2 7E1 and others...
