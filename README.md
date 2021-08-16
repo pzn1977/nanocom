@@ -11,10 +11,10 @@ License: GNU GPL
 Usage: run the program without arguments to see usage help
 
 This is an old project, made in 2004 and versioned with CVS :-) Since it
-is useful for me, and may be useful for others, then I dediced to import
-it to github
+is useful for me and maybe useful for others, then I dedided to import
+it to GitHub
 
-The program name was inspired on "minicom", and since it is too much
+The program name was inspired by "minicom", and since it is too much
 smaller, the name "nanocom" seemed to be nice ;-)
 
 Current usage modes are "noecho", "rxonly", "cfgonly", "rxhex", "rxhext".
